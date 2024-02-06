@@ -4,8 +4,8 @@ package aplication;
 
 import java.util.Date;
 
-import model.Department;
-import model.Seller;
+import model.entidade.Department;
+import model.entidade.Seller;
 
 public class Program {
 
